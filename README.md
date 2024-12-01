@@ -4,6 +4,8 @@
 
 Ce dépôt contient le code pour notre projet réalisé dans le cadre du cours de [Geometric Data Analysis](https://www.jeanfeydy.com/Teaching/index.html) enseigné par Jean Feydy.
 
+Ce projet porte sur l'article **"Towards a coherent statistical framework for dense deformable template estimation"** de Stéphanie Allassonnière, Yali Amit et Alain Trouvé. Vous pouvez consulter le papier complet [ici](https://galton.uchicago.edu/~amit/Papers/em.pdf).
+
 ## Prérequis
 Les bibliothèques nécessaires pour exécuter ce projet sont :
 - `torch`
